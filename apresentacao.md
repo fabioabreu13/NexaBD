@@ -1,5 +1,6 @@
 ---
 marp: true
+transition: fade
 author: Watiley Zanelato Dondoni
 size: 16:9
 description: Demonstração da Sprint V sobre banco de dados
