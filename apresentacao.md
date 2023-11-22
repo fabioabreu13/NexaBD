@@ -3,7 +3,7 @@ marp: true
 author: Watiley Zanelato Dondoni
 size: 16:9
 description: Demonstração da Sprint V sobre banco de dados
-footer: ![w:35](./img/github-logo-24.png) [  Link do Projeto Br Minerais](https://github.com/fabioabreu13/Nexa)  
+footer: ![w:35](./img/github-logo-24.png) [  Link do Projeto Br Minerais](https://github.com/fabioabreu13/NexaBD)  
 header: Turma 02 - Grupo A | Anderson Rodriguez, Fábio Abreu, Itamar Maximo de Sena, Lucas Araújo, Victor Hugo, Watiley Zanelato Dondoni.
 ---
 
@@ -280,7 +280,7 @@ RIGHT JOIN funcionario
 ON producao.FK_FuncionarioID  = funcionario.funcionario_ID;
 ```
 
-![a drop-shadow:0,5px,10px,rgba(0,0,0,.4)](img/select_from_Producao--Inner_Mina--RigthJoin--Funcionario_Where-Producao.jpeg)
+![h:350px w:1200 drop-shadow:0,5px,10px,rgba(0,0,0,.4)](img/select_from_Producao--Inner_Mina--RigthJoin--Funcionario_Where-Producao.jpeg)
 
 ---
 <!-- _backgroundImage: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%); -->
